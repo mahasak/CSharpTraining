@@ -1,4 +1,5 @@
 # C Sharp Training
+
 Lesson 1
 - Delegates and Events
 - Dynamics
@@ -10,10 +11,12 @@ Lesson 1
 - Polymorphism
 - Queues
 - Yield
+
 Lesson 2
 - Threads
 - Tasks
 - Parallelisum
+
 Lesson 3
 - IoC Patterns
 - Switch to Dic
